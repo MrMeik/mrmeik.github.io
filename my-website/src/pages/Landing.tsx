@@ -1,0 +1,12 @@
+
+export default function Landing() {
+    return (<div>
+        <h2>test</h2>
+        {/* <h1>Head Empty</h1>
+        <div style={{ width: "100vw", display: "flex" }}>
+            <img src="https://i.pinimg.com/originals/c7/d0/61/c7d0619b4f0f1f7bc69dc0cf88da5c0c.jpg" alt="No thoughts, head empty" />
+            <img src="https://i.pinimg.com/originals/85/88/bd/8588bda8f0defe611234179f195a08ac.jpg" alt="No thoughts, head empty" />
+            <img src="https://i.redd.it/me9k305fcmx51.png" alt="No thoughts, head empty" />
+        </div> */}
+    </div >)
+}
